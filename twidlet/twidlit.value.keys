@@ -1,0 +1,155 @@
+#
+# Copyright 2015 Pushkar Piggott
+#
+# A list of the ASCII values of keystrokes.
+# see www.w3.org/TR/DOM-Level-3-Events-code
+# Key code names can be found in twidlit.name.keys.
+#
+# Entries are of the form:
+# <keystroke code> <value>
+# Values are characters, 2 digit numbers, or escape codes.
+# 
+# first the ctrl/alt codes
+#\k031f \x00
+\k0104 \x01
+\k0105 \x02
+\k0106 \x03
+\k0107 \x04
+\k0108 \x05
+\k0109 \x06
+\k010a \x07
+\k010b \x08 # backspace duplicated
+\k010c \x09 # \t tab duplicated
+\k010d \x0a # \n line feed duplicated
+\k010e \x0b
+\k010f \x0c
+\k0110 \x0d # \r carriage return duplicated
+\k0111 \x0e
+\k0112 \x0f
+\k0113 \x10
+\k0114 \x11
+\k0115 \x12
+\k0116 \x13
+\k0117 \x14
+\k0118 \x15
+\k0119 \x16
+\k011a \x17
+\k011b \x18
+\k011c \x19
+\k011d \x1a
+\k012f \x1b # escape 
+\k0131 \x1c
+\k0130 \x1d
+\k0323 \x1e
+\k032d \x1f
+# then the actual keys
+\k0059 1 # Numpad
+\k005a 2 # Numpad
+\k005b 3 # Numpad
+\k005c 4 # Numpad
+\k005d 5 # Numpad
+\k005e 6 # Numpad
+\k005f 7 # Numpad
+\k0060 8 # Numpad
+\k0061 9 # Numpad
+\k0062 0 # Numpad
+\k001e 1 # Keyboard
+\k001f 2 # Keyboard
+\k0020 3 # Keyboard
+\k0021 4 # Keyboard
+\k0022 5 # Keyboard
+\k0023 6 # Keyboard
+\k0024 7 # Keyboard
+\k0025 8 # Keyboard
+\k0026 9 # Keyboard
+\k0027 0 # Keyboard
+\k0004 a
+\k0005 b
+\k0006 c
+\k0007 d
+\k0008 e
+\k0009 f
+\k000a g
+\k000b h
+\k000c i
+\k000d j
+\k000e k
+\k000f l
+\k0010 m
+\k0011 n
+\k0012 o
+\k0013 p
+\k0014 q
+\k0015 r
+\k0016 s
+\k0017 t
+\k0018 u
+\k0019 v
+\k001a w
+\k001b x
+\k001c y
+\k001d z
+\k0028 \n
+\k0029 \e # Escape
+\k002a \b
+\k002b \t
+\k002c \s
+\k0035 `
+\k002d -
+\k002e =
+\k002f [
+\k0030 ]
+\k0031 \\
+\k0033 ;
+\k0034 '
+\k0036 ,
+\k0037 .
+\k0038 /
+\k004c \x7f # delete
+\k021e !
+\k021f @
+\k0220 \#
+\k0221 $
+\k0222 %
+\k0223 ^
+\k0224 &
+\k0225 *
+\k0226 (
+\k0227 )
+\k0204 A
+\k0205 B
+\k0206 C
+\k0207 D
+\k0208 E
+\k0209 F
+\k020a G
+\k020b H
+\k020c I
+\k020d J
+\k020e K
+\k020f L
+\k0210 M
+\k0211 N
+\k0212 O
+\k0213 P
+\k0214 Q
+\k0215 R
+\k0216 S
+\k0217 T
+\k0218 U
+\k0219 V
+\k021a W
+\k021b X
+\k021c Y
+\k021d Z
+\k0235 ~
+\k022d _
+\k022e +
+\k022f {
+\k0230 }
+\k0231 |
+\k0233 :
+\k0234 "
+\k0236 <
+\k0237 >
+\k0238 ?

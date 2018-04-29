@@ -1,0 +1,28 @@
+#
+# Copyright 2015 Pushkar Piggott
+#
+# A list of keycodes whose values duplicate others.
+#
+# see www.w3.org/TR/DOM-Level-3-Events-code
+#
+\k0062 # Numpad0
+\k0059 # Numpad1
+\k005a # Numpad2
+\k005b # Numpad3
+\k005c # Numpad4
+\k005d # Numpad5
+\k005e # Numpad6
+\k005f # Numpad7
+\k0060 # Numpad8
+\k0061 # Numpad9
+\k0057 # NumpadAdd
+\k00bb # NumpadBackspace
+\k0085 # NumpadComma
+\k0063 # NumpadDecimal
+\k0054 # NumpadDivide
+\k0058 # NumpadEnter
+\k0067 # NumpadEqual
+\k0055 # NumpadMultiply
+\k00b6 # NumpadParenLeft
+\k00b7 # NumpadParenRight
+\k0056 # NumpadSubtract

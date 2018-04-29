@@ -1,0 +1,38 @@
+#
+# Copyright 2015 Pushkar Piggott 
+#
+# Twidlit default preferences
+#
+test.pref.not.in.code value
+background.color 0xf5f5d5
+border.color 0xc0c0a0
+chord.keys.display.msec 1000
+chord.prompt Press the chord shown.
+chord.times.stored 16
+chord.wait.autoscale.step 8
+chord.wait.autoscale.mean.percent 50
+chord.wait.chord.show.percent 33
+chord.wait.delay.chord.show.percent 10
+chord.wait.mark.percent 20
+chord.wait.timed.percent 200
+count.repeats.max 2
+display.format std
+file.format std
+key.wait.msec 80
+new.line windows
+prompt.font SansSerif
+progress.step.msec 150
+slider.height 50
+slider.step.width 50
+text.color lightGray
+text.highlight.color black
+text.font Serif
+text.size 48
+text.visible.space 0x87
+twiddler.background.color black
+twiddler.button.color lightGray
+twiddler.highlight.color red
+twiddler.label.color white
+twiddler.mark.match.color yellow
+twiddler.mark.mismatch.color black
+window.border.size 8
